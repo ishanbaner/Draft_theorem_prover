@@ -24,14 +24,14 @@ True  imp  True
 Final answer: True
 ```
 
-## Example 1
+## Example 2
 Considering the expression (p => r), assuming 'p => q' and 'q => r'.
 ```
 Prove.assumeTrue(['P','imp','Q'])
 Prove.assumeTrue(['Q','imp','R'])
 Prove.proof(['P','imp','R'])
 ```
-## Output 1
+## Output 2
 ```
 I|= P  imp  R
 Assming  P  true
