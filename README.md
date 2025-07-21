@@ -43,3 +43,5 @@ True  imp  True
 ---------------------------
 Final answer: True
 ```
+# Immediate improvements planning
+Along with fixing a few bugs, I need to add operators like for all and exists.
